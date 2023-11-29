@@ -46,8 +46,8 @@ class VaultClient:
 
 if __name__ == "__main__":
     VAULT_URL = "http://127.0.0.1:8200"
-    ROLE_ID = "012e2369-7f37-e5fd-1032-46d911f1253b"
-    SECRET_ID = "f47cd01e-c67c-4714-a809-539d864b07ff"
+    ROLE_ID = "182bc644-a4c5-0da6-01d3-2161e46643cb"
+    SECRET_ID = "ac2d2277-691b-3c5c-486b-5590b2713afb"
     SECRET_PATH = "secret/data/snow"
     #SECRET_PATH = "secret/data/aws"
 
